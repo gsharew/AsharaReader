@@ -1,0 +1,15 @@
+*.iml
+.gradle
+/gradle
+gradle/wrapper/gradle-8.2.1-bin.zip
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+/word_database
+/word_database-shm
+/word_database-wal
+/app/release
